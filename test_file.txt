@@ -2,3 +2,5 @@
 2nd line of the file
 3rd line of the file
 4th line of the file
+5th line of the file
+6th line of the file

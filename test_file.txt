@@ -7,3 +7,4 @@
 7th line of the file
 8th line of the file
 9th line of the file
+10th line of the file
